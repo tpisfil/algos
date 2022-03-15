@@ -1,2 +1,6 @@
-# algos
-This is a personal repo where I want to keep track of my practice problems for algorithms and data structures. 
+# algos & data structures practice 
+This is a personal repo for practice. 
+If you are looking in here you will find a bunch of practice problems for algorithms and data structures. 
+They should all be written in JavaScript and have comments. 
+
+Thanks for checking it out :) 
